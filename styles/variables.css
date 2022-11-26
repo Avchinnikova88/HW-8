@@ -1,0 +1,33 @@
+:root {
+    /* background */
+    --primary-bg :rgb(24, 44, 71);
+    --primary_bg_main:rgb(115, 167, 209);
+    --primary_bg_sidebar:rgb(192, 196, 201);
+    --bg-gradient : linear-gradient(rgb(55, 116, 173) , rgb(3, 62, 90));
+
+     /* text-color */
+     --primary-color : rgb(255, 255, 255) ;
+
+     
+    /* border_color */
+        --primary_border_color:rgb(12, 4, 126);
+
+    /* padding */
+        --padding-l : 2rem;
+        --padding-m : 1.5rem;
+        --padding-s : 1rem;
+
+    /* margin */
+        --margin-xl : 4rem;
+        --margin-l : 2rem;
+        --margin-m : 1.5rem;
+        --margin-s : 1rem;
+
+        --primary-font:Robota;
+        --primary_font_maim:Inter;
+
+     /* fond-size    */
+      --font-size-m: 23px;
+      --fond-size-s:18p;
+      --fond-size-xs:15px;
+}
